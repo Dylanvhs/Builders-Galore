@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "builders_galore:block/cobblestone_bricks"
+    }
+  }
+}
